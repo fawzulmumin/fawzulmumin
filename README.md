@@ -8,7 +8,7 @@
 
 **Data Engineer | Database & AI Systems** · Bogor, Indonesia
 
-Informatics graduate (GPA 3.74/4.00) who builds reliable, data-driven systems that turn raw data into better decisions. I work across data engineering, database design, and applied AI/ML, with a focus on SQL Server, Python, and Retrieval-Augmented Generation (RAG).
+Informatics graduate who builds reliable, data-driven systems that turn raw data into better decisions. I work across data engineering, database design, and applied AI/ML, with a focus on SQL Server, Python, and Retrieval-Augmented Generation (RAG).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fawzul-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/fawzul)
 [![Email](https://img.shields.io/badge/Email-fawzulmumin%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:fawzulmumin@gmail.com)
