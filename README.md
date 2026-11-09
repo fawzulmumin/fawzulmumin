@@ -1,4 +1,10 @@
-# Hi, I'm Fawzul Azhim Mumin 👋
+<div align="center">
+
+![Fawzul Azhim Mumin — Data Engineer | Database & AI Systems](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Fawzul%20Azhim%20Mumin&fontSize=38&fontColor=ffffff&desc=Data%20Engineer%20%7C%20Database%20%26%20AI%20Systems&descSize=16&descAlignY=68)
+
+</div>
+
+## Hi, I'm Fawzul 👋
 
 **Data Engineer | Database & AI Systems** · Bogor, Indonesia
 
@@ -55,3 +61,9 @@ Also: T-SQL / stored procedures, ETL pipelines, OpenMetadata, LightGBM, Efficien
 - Bachelor of Informatics, Gunadarma University, GPA 3.74/4.00 (2021 to 2025)
 - BNSP Professional Certification: Associate Data Scientist (Artificial Intelligence), valid until Sep 2028
 - Bangkit Academy 2024 (Google, GoTo, Traveloka): Machine Learning learning path
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer)
+
+</div>
