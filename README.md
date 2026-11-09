@@ -1,6 +1,6 @@
 <div align="center">
 
-![Fawzul Azhim Mumin — Data Engineer | Database & AI Systems](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Fawzul%20Azhim%20Mumin&fontSize=38&fontColor=ffffff&desc=Data%20Engineer%20%7C%20Database%20%26%20AI%20Systems&descSize=16&descAlignY=68)
+![Fawzul Azhim Mumin — Data Engineer | Database & AI Systems](assets/banner.svg)
 
 </div>
 
